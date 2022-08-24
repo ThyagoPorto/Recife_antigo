@@ -1,0 +1,46 @@
+body {
+
+    background-image: url(https://assets.folhavitoria.com.br/images/a86fed70-74bf-0135-9f10-6231c35b6685--minified.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Source Code Pro', cursive;
+    font-size: 50px;
+}
+
+@import url('https://fonts.googleapis.com/css2? family= Source+Code+Pro:wght@400;500 & display=swap');
+
+div {
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 400px;
+    height: 400px;
+    margin: 50px auto;
+    padding: 30px 50px;
+    font-size: 20px;
+
+}
+
+.position {
+    text-align: justify;
+    color: white;
+}
+
+a {
+    color: yellow;
+}
+
+img {
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h4,
+p {
+    color: yellow;
+    text-align: center;
+}

@@ -1,0 +1,46 @@
+body {
+    background-image: radial-gradient(circle at 56.16% -20.44%,
+            #008a91 0,
+            #008999 6.25%,
+            #00899f 12.5%,
+            #0088a6 18.75%,
+            #0087ab 25%,
+            #0085b0 31.25%,
+            #0084b4 37.5%,
+            #0082b7 43.75%,
+            #2280b9 50%,
+            #3a7eba 56.25%,
+            #4c7bba 62.5%,
+            #5c78b9 68.75%,
+            #6976b7 75%,
+            #7673b4 81.25%,
+            #816fb0 87.5%,
+            #8c6cab 93.75%,
+            #9569a5 100%);
+}
+
+img {
+    display: block;
+    width: 400px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    color: rgb(230, 230, 55);
+    text-align: center;
+    font-size: 40px;
+}
+
+p {
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+}
+
+a {
+    color: yellow;
+    text-decoration: none;
+    font-size: 20px;
+}
